@@ -9,3 +9,5 @@ MAVLINK(Micro Air Vehicle Link)를 통하여 받아온 정보와 영상정보에
 ![image](https://github.com/ikw-drone-project/AI/assets/71598954/a286593c-2693-4f2d-b116-443d92700d2f)  
 ## 목적
 ### 비행중인 무인비행체가 적 장갑차, 사람을 탐지하는 경우 GCS상에 상세 좌표를 표기.
+## 한계점 및 제약사항
+### 비행기의 고도를 지형(Terrial)과의 거리에 기반한 

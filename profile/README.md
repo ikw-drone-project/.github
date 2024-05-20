@@ -6,7 +6,6 @@
 ## 기체 - 지상국 설계
 기체에서 수집한 정보를 지상국에 전송, 지상국 GCS상에 탐지된 적 위치 표시
 ![web](https://github.com/ikw-drone-project/.github/assets/71598954/ac79e100-7de8-449e-a09f-5c2f34eae1ac)
-> wifi의 사용 가능성 (핫스팟 모듈 장착예정)  
 > 충분한 하드웨어 메모리 필요   
 > ![testcase](https://github.com/ikw-drone-project/.github/assets/71598954/1069866e-962a-48ac-8d45-3bb54fb5a9bd)
 

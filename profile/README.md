@@ -1,12 +1,16 @@
 # 드론 프로젝트
 프로젝트 기간
-> 2024/04/12 ~ 2024/05/10
-> 기체 제작 04/12 ~ 05/02
+> 2024/04/12 ~ 2024/05/10  
+> 기체 제작 04/12 ~ 05/02  
 > ![first](https://github.com/ikw-drone-project/.github/assets/71598954/185cc5b6-5d1f-49aa-9d31-b80548e72c9d)
 
 ## 기체 - 지상국 설계
 기체에서 수집한 정보를 지상국에 전송, 지상국 GCS상에 탐지된 적 위치 표시
 ![web](https://github.com/ikw-drone-project/.github/assets/71598954/ac79e100-7de8-449e-a09f-5c2f34eae1ac)
+> ![image](https://github.com/ikw-drone-project/.github/assets/71598954/693133e6-0c87-499c-819a-2c16c6dca9d8)
+> ![image](https://github.com/ikw-drone-project/.github/assets/71598954/cea0ab7c-00fa-4958-963d-f6e61bf42250)
+> ![image](https://github.com/ikw-drone-project/.github/assets/71598954/044f9128-970e-4764-b1ea-c6a7d759008a)
+
 > 충분한 하드웨어 메모리 필요   
 > ![testcase](https://github.com/ikw-drone-project/.github/assets/71598954/1069866e-962a-48ac-8d45-3bb54fb5a9bd)
 

@@ -1,5 +1,5 @@
 # 창작기체 프로젝트
-## 개발
+## Developers
 - 김창근 ( GCS 개발 )
 - 이동현 ( 기체 가공 및 조종 )
 - 박진연 ( 기체 설계 및 가공 )
@@ -9,7 +9,7 @@
 - 김찬우 ( 객체인식 모델 설계 )
 - 이태경 ( 데이터베이스 관련 )
 
-## 프로젝트 기간
+## 기간
 > 2024/04/12 ~ 2024/05/09  
 > 기체 제작 04/12 ~ 05/02  
 > ![first](https://github.com/ikw-drone-project/.github/assets/71598954/185cc5b6-5d1f-49aa-9d31-b80548e72c9d)
@@ -26,5 +26,5 @@
 
 MAVLINK(Micro Air Vehicle Link)를 통하여 받아온 정보와 영상정보에 기반하여 적 위치를 특정.
 ![image](https://github.com/ikw-drone-project/.github/assets/71598954/756c8d8e-974f-4467-8f15-fae29f523c9d)
-## 목적
+## Goal
 ### 비행중인 무인비행체가 적 장갑차, 탱크를 탐지하는 경우 GCS상 상세 좌표를 표기.

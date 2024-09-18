@@ -2,7 +2,7 @@
 ## Developers
 - [김창근 ( GCS 개발 )](https://github.com/sckdrms)
 - [이동현 ( 기체 가공 및 조종 )](https://github.com/Amai001)
-- 박진연 ( 기체 설계 및 가공 )
+- [박진연 ( 기체 설계 및 가공 )](https://github.com/PJYeon)
 - 황동혁 ( 기체 가공 및 설계 )
 - 김호진 ( 기체 가공 )
 - [전현배 ( 기체통신 구현 및 통합 )](https://github.com/HarryKito)

@@ -5,7 +5,7 @@
 - [박진연 ( 기체 설계 및 가공 )](https://github.com/PJYeon)
 - 황동혁 ( 기체 가공 및 설계 )
 - 김호진 ( 기체 가공 )
-- [전현배 ( 기체통신 구현 및 통합 )](https://github.com/HarryKito)
+- [전현배 ( 기체통신 구현 및 체계 통합 )](https://github.com/HarryKito)
 - [김찬우 ( 객체인식 모델 설계 )](https://github.com/ASDFQWERCXZZ)
 - [이태경 ( 데이터베이스 관련 )](https://github.com/Tk001111)
 
